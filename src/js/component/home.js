@@ -72,6 +72,7 @@ export function Home() {
 						onClick={cambioGreen}></button>
 				</div>
 			</div>
+			<h1>Traffic Light</h1>
 		</div>
 	);
 }
